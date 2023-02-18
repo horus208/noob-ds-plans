@@ -26,7 +26,15 @@
 |node deletion in BST|https://www.youtube.com/watch?v=a-53QSxovUA|https://leetcode.com/problems/delete-node-in-a-bst/|
 
 
+## homework:
+1. given the root of Binary tree Implement DFS to print the tree in an iteretive way.
+2. given the root of Binary tree Implement BFS to print the tree level by level.
+3. implement BST searching but in an iterative way (solve this again but in an iterative way [leetcode](https://leetcode.com/problems/search-in-a-binary-search-tree/)).
+4. write a program to check if a given tree is a BST (solve this [leetcode](https://leetcode.com/problems/validate-binary-search-tree/description/))
+5. write a program to convert sorted array to a BST (solve this [leetcode](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/))
+6. write a program to find Kth smallest number (solve this [leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/))
+7. write a program to find the Lowest Common Ancestor of a Binary Search Tree (solve this [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/))
 
 
-
+>___I expect that you will prepare your solutions on one compressed file, ready to be uploaded on a link will be sent to you soon.
 
