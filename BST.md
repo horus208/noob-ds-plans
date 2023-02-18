@@ -36,5 +36,5 @@
 7. write a program to find the Lowest Common Ancestor of a Binary Search Tree (solve this [leetcode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/))
 
 
->___I expect that you will prepare your solutions on one compressed file, ready to be uploaded on a link will be sent to you soon.
+>___I expect that you will prepare your solutions on one compressed file, ready to be uploaded on a link will be sent to you soon.___
 
