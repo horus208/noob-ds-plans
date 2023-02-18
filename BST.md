@@ -27,7 +27,7 @@
 
 
 ## homework:
-1. given the root of Binary tree Implement DFS to print the tree in an iteretive way.
+1. given the root of Binary tree Implement DFS to print the tree in an iterative way.
 2. given the root of Binary tree Implement BFS to print the tree level by level.
 3. implement BST searching but in an iterative way (solve this again but in an iterative way [leetcode](https://leetcode.com/problems/search-in-a-binary-search-tree/)).
 4. write a program to check if a given tree is a BST (solve this [leetcode](https://leetcode.com/problems/validate-binary-search-tree/description/))
